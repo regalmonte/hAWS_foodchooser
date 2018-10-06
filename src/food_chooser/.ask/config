@@ -8,7 +8,7 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-food_chooser-default"
+                "uri": "food_chooser"
               }
             }
           }
